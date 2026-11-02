@@ -42,3 +42,4 @@ Thumbs.db
 *.log 
 config.bat
 node_modules
+.vscode/tasks.json
